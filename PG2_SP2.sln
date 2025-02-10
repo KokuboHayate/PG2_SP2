@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG2_SP2", "PG2_SP2.vcxproj", "{9BE2D7B5-460D-4B92-BCFE-77A4ACC85429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE2D7B5-460D-4B92-BCFE-77A4ACC85429}.Debug|x64.ActiveCfg = Debug|x64
+		{9BE2D7B5-460D-4B92-BCFE-77A4ACC85429}.Debug|x64.Build.0 = Debug|x64
+		{9BE2D7B5-460D-4B92-BCFE-77A4ACC85429}.Release|x64.ActiveCfg = Release|x64
+		{9BE2D7B5-460D-4B92-BCFE-77A4ACC85429}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23208FCE-5A64-413F-8F7D-30A56AB799D8}
+	EndGlobalSection
+EndGlobal
