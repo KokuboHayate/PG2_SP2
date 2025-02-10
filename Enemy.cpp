@@ -7,7 +7,7 @@ Enemy::Enemy(int posX, int posY, int speedX, int speedY)
 	posY_ = posY;
 	speedX_ = speedX;
 	speedY_ = speedY;
-	radius_ = 8;
+	radius_ = 15;
 	respownTime_ = 120;
 	respownTimer_ = 120;
 	isAlive_ = true;
